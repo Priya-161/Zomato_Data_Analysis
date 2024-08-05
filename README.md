@@ -31,7 +31,7 @@ Examine the distribution of ratings across restaurants to identify common rating
 ### 4. Average Spending by Couples
 Filter the dataset for orders placed by couples and calculate the average spending per order.
 
-![Average Spending by Couples](average_spending_couples.png)
+![Average Spending by Couples](Average_Spending.png)
 
 ### 5. Ratings Comparison: Online vs Offline Mode
 Compare the average ratings for orders placed online and offline to identify which mode is preferred by customers.
