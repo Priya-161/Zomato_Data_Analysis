@@ -16,32 +16,32 @@ Zomato, a leading food delivery service, boasts an average of 17.5 million month
 ### 1. Majority Restaurant Type Ordered By Customers
 To determine the most popular restaurant type, analyze the frequency of orders from different restaurant types.
 
-![Majority Restaurant Type Ordered By Customers](plots/restaurant_type_orders.png)
+![Majority Restaurant Type Ordered By Customers](Majority.png)
 
 ### 2. Customer Votes for Each Restaurant Type
 Count the votes each restaurant type has received to gauge customer preferences and satisfaction levels.
 
-![Customer Votes for Each Restaurant Type](plots/restaurant_type_votes.png)
+![Customer Votes for Each Restaurant Type](Customer_Votes.png)
 
 ### 3. Majority Restaurant Ratings
 Examine the distribution of ratings across restaurants to identify common rating trends.
 
-![Majority Restaurant Ratings](plots/restaurant_type_ratings.png)
+![Majority Restaurant Ratings](Majority_Restaurant.png)
 
 ### 4. Average Spending by Couples
 Filter the dataset for orders placed by couples and calculate the average spending per order.
 
-![Average Spending by Couples](plots/average_spending_couples.png)
+![Average Spending by Couples](average_spending_couples.png)
 
 ### 5. Ratings Comparison: Online vs Offline Mode
 Compare the average ratings for orders placed online and offline to identify which mode is preferred by customers.
 
-![Ratings Comparison: Online vs Offline Mode](plots/online_offline_ratings.png)
+![Ratings Comparison: Online vs Offline Mode](Ratings_Comparison.png)
 
 ### 6. Offline Orders by Restaurant Type
 Analyze the number of offline orders for each restaurant type to determine where to focus marketing efforts and offer promotions.
 
-![Offline Orders by Restaurant Type](plots/offline_orders.png)
+![Offline Orders by Restaurant Type](Offline_Orders.png)
 
 ## Conclusion
 By answering these questions, Zomato can better understand customer preferences, optimize marketing strategies, and enhance the overall customer experience. The insights gained from this analysis will enable data-driven decision-making and contribute to the growth and success of Zomato's food delivery business.
